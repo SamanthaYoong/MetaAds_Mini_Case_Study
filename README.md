@@ -4,6 +4,11 @@
 Drive user participation in the **123 IQ Test** during launch week through performance marketing on Meta Ads.
 
 🔗 [View the Interactive Tableau Dashboard](https://lookerstudio.google.com/reporting/98c74962-0ffc-4742-82ed-14afddbe9e14)
+---
+
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](MetaAds_Mini_Case_Study.jpg)
 
 ---
 
