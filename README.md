@@ -4,6 +4,7 @@
 Drive user participation in the **123 IQ Test** during launch week through performance marketing on Meta Ads.
 
 🔗 [View the Interactive Tableau Dashboard](https://lookerstudio.google.com/reporting/98c74962-0ffc-4742-82ed-14afddbe9e14)
+
 ---
 
 ## 🖼️ Dashboard Preview
@@ -39,9 +40,9 @@ Drive user participation in the **123 IQ Test** during launch week through perfo
 
 | Metric           | Video Ad       | Carousel Ad    |
 |------------------|----------------|----------------|
-| ROAS             | +35%           | —              |
-| Conversion Rate  | +55%           | —              |
-| CTR Source       | Facebook Reels | Mixed Feeds    |
+| ROAS             | 2.25           | 1.94           |
+| Conversion Rate  | 14.27%         | 11.62%         |
+| CTR Source       | FB & IG  Reels | Mixed Feeds    | 
 
 - Video ad **outperformed** carousel on both ROAS and Conversion
 - **Facebook Reels** drove the majority of engagement
