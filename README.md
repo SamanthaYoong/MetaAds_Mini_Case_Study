@@ -1,4 +1,4 @@
-#  Meta Ads Mini Case Study: 123 IQ Test – Free & No Registration
+#  Meta Ads - UGC Performance Analysis
 
 ## 📍 Objective
 Drive user participation in the **123 IQ Test** during launch week through performance marketing on Meta Ads.
